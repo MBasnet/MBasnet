@@ -16,7 +16,7 @@ Syntax highlighted code block
 ### Header 3
 
 - Bulleted
-- List $y=f(x)$
+- List $$y=f(x)$$
 
 1. Numbered
 2. List
